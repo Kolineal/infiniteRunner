@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 5c0c941ddc35f463f9a8b0422c4834ad
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 308
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 242
+        width: 52
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 270
+        width: 52
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 280
+        width: 226
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 360
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 368
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 350
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 308
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 316
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 292
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 282
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 244
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 240
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 248
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 256
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 236
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 216
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 224
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 194
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 218
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 180
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 170
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 186
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 184
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 192
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_29
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 174
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_30
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 122
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 128
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_33
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 138
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_34
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 146
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_35
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_36
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 122
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 96
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 86
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_39
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 90
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_40
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 104
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 104
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_42
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 58
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_43
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 72
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 32
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_46
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 26
+        width: 102
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 10
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_48
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 10
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_49
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 8
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_53
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_54
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_55
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappy_bird_sprites_by_stillliketrains-d75i25t_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
