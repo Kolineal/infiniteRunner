@@ -73,6 +73,8 @@
      <Compile Include="Assets\Scripts\FlappyControls\FlappyHUDScript.cs" />
      <Compile Include="Assets\Scripts\GameOverScript.cs" />
      <Compile Include="Assets\Scripts\HUDScript.cs" />
+     <Compile Include="Assets\Scripts\MazeLevel\PackManControllScript.cs" />
+     <Compile Include="Assets\Scripts\MazeLevel\mazeGeneratorScript.cs" />
      <Compile Include="Assets\Scripts\NextLevelScript.cs" />
      <Compile Include="Assets\Scripts\Platformer2DUserControl.cs" />
      <Compile Include="Assets\Scripts\PlatformerCharacter2D.cs" />
